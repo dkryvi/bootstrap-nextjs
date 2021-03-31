@@ -8,3 +8,7 @@ Hi there!
 - [Eslint](http://eslint.org) + [Prettier](http://prettier.io) for code linting
 - [Material UI](https://material-ui.com)
 - Mui theme with responsive fonts
+
+
+## Example of usage:
+```npx create-next-app [your-app-name] -e https://github.com/dkryvi/bootstrap-nextjs```
